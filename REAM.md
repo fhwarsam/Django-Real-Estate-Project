@@ -1,0 +1,1 @@
+This is a simple python's Django framework web-app that builds a real estate application that creates, deletes, updates and retrives listings. 
